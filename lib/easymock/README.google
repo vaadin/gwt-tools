@@ -14,4 +14,4 @@ on the fly using Java's proxy mechanism. Due to EasyMock's unique style of
 recording expectations, most refactorings will not affect the Mock Objects.
 So EasyMock is a perfect fit for Test-Driven Development.
 
-Local Modifications: No modifications 
+Local Modifications: No modifications
