@@ -7,7 +7,6 @@ To recreate the rebased compiler.jar file:
 2) Strip all unnecesary files 
   zip compiler-rebased.jar -d javax/*
   zip compiler-rebased.jar -d org/*
-  zip compiler-rebased.jar -d rhino_ast/*
   zip compiler-rebased.jar -d META-INF/*
   zip compiler-rebased.jar -d LICENSE.txt
 
