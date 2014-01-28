@@ -19,5 +19,5 @@ To recreate the rebased compiler.jar file:
 
   unzip compiler-rebased.jar -d compiler-rebased
   cd compiler-rebased
-  jar cvf ../compiler-rebased.jar externs.zip com/google/gwt/thirdparty/javascript
+  jar cvf ../compiler-rebased.jar externs.zip com/google/gwt/thirdparty/javascript rhino_ast
   jar cvf ../sourcemap-rebased.jar com/google/gwt/thirdparty/debugging
